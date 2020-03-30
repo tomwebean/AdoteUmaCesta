@@ -12,7 +12,7 @@
 <br>
 
 ## 💻 O Projeto
-ADOTE UMA CESTA - Landing-Page desenvolvida para uma ação solidária de arrecadação de fundos para doação de Cestas Básicas para famílias carentes.
+ADOTE UMA CESTA - Landing-Page desenvolvida para uma ação solidária de arrecadação de fundos para doação de Cestas Básicas para famílias carentes. <br>
 **OBS:** Retirado os dados reais de contato.
 
 ## ☕ Funcionalidades
