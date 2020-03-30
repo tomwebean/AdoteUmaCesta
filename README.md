@@ -21,7 +21,7 @@ ADOTE UMA CESTA - Landing-Page desenvolvida para uma ação solidária de arreca
 Este projeto foi desenvolvido com as seguintes tecnologias:
 - :u7533: **HTML5**
 
-## 🩸 Qual a importância de doação? <br>
+## :page_with_curl: Qual a importância de doação? <br>
 A doação é um gesto solidário, de doar uma pequena quantidade financeira para <b>salvar a vida de pessoas</b> que estão passando por momentos dificeis devido as complicação econômicas.
 
 
